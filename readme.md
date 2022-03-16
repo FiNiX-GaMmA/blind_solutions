@@ -1,4 +1,4 @@
-# blind_solutions
+# **blind_solutions**
 ## coded by FiNyX-GaMmA
 
 all the codes are wirtten in python
