@@ -10,7 +10,7 @@ all the codes are wirtten in python
 3. **Contains number**
   > for this i have put 3 different algorith and found that the one using the hashset is bettr that all others and the one using a hashmap or dictionary exceeds the time limit
 4. **Array multiplication without itself**
-  > **Method 1 -** for this i took the array made a product of all the elements and i divided the current element from the product to get the multiplication without the current numbers. 
+  > **Method 1 -** for this i took the array made a product of all the elements and i divided the current element from the product to get the multiplication without the current numbers 
   > **Method 2 -** finding an optimal solution in process
 5. **Maximum sub array :-**
   > **Method 1 -**  
